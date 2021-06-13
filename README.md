@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lasha-Less
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning css and will soon start learning javascript
-- 💞️ I’m looking to collaborate on projects that involve html and css
+- 👀 I’m interested in software development.
+- 🌱 Currently I'm learning css and javascript but I'm looking forward to explore other languages as well.
+- 💞️ I’m open for collaboration on projects that involve html, css and javascript.
 - 📫 You can reach me on the following email: lashawill@gmail.com
 
 <!---
