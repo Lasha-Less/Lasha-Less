@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lasha-Less)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lasha-Less&theme=gruvbox)](https://git.io/streak-stats)
