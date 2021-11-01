@@ -1,6 +1,6 @@
 - 👋 Hey there, I’m @Lasha-Less
 - 👀 I’m interested in programming.
-- 🌱 Currently I'm getting to know javascript and I'm also looking forward to explore other languages.
+- 🌱 Currently I'm getting to know javascript but also looking forward to explore other languages.
 - 💞️ I’m open for collaboration on projects that involve javascript, css and html.
 - 📫 You can reach me on the following email: lashawill@gmail.com
 
