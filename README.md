@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lasha-Less
-- 👀 I’m interested in data science and web development.
-- 🌱 Currently I'm exploring python and javascript but I'm looking forward to explore other languages as well.
-- 💞️ I’m open for collaboration on projects that involve html, css and javascript.
+- 👋 Hey there, I’m @Lasha-Less
+- 👀 I’m interested in programming.
+- 🌱 Currently I'm getting to know javascript but I'm also looking forward to explore other languages as well.
+- 💞️ I’m open for collaboration on projects that involve javascript, css and html.
 - 📫 You can reach me on the following email: lashawill@gmail.com
 
 <!---
